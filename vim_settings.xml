@@ -1,0 +1,163 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/PhpStorm/tests/Feature/ExampleTest.php" timestamp="1518026942643">
+        <mark key="[" line="15" column="4" />
+      </file>
+      <file name="C:/xampp/htdocs/myWork/driveschool/.gitignore" timestamp="1518025373285">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1518026209952">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/xampp/htdocs/myWork/forum/_ide_helper.php" timestamp="1518025694081">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+      </file>
+      <file name="C:/xampp/htdocs/myWork/forum/app/Http/Controllers/ThreadsController.php" timestamp="1518026579878">
+        <mark key="[" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/PhpStorm/routes/web.php" timestamp="1518027152060">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/xampp/htdocs/myWork/forum/tests/Feature/CreateThreadTest.php" timestamp="1518028258169">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="27" column="21" />
+        <mark key="^" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gdGVzdCgkbmFtZSwgJGFnZSkgewogICAgcmV0dXJuICJ7JG5hbWV9OiB5b3VyIGFnZSBpcyB7JGFnZX0iOwp9CiRzdGF0dXMgPSB0ZXN0KCdhbGFhRHJhZ25lZWwnLCAyMCk7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gdGVzdCgkbmFtZSwgJGFnZSkgewogICAgcmV0dXJuICJ7JG5hbWV9OiB5b3VyIGFnZSBpcyB7JGFnZX0iOwp9CiRzdGF0dXMgPSB0ZXN0KCdhbGFhRHJhZ25lZWwnLCAyMCk7Cg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Iik7Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">cGhwCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">cGhwCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoKfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCnwgV2ViIFJvdXRlcwp8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KfAp8IEhlcmUgaXMgd2hlcmUgeW91IGNhbiByZWdpc3RlciB3ZWIgcm91dGVzIGZvciB5b3VyIGFwcGxpY2F0aW9uLiBUaGVzZQp8IHJvdXRlcyBhcmUgbG9hZGVkIGJ5IHRoZSBSb3V0ZVNlcnZpY2VQcm92aWRlciB3aXRoaW4gYSBncm91cCB3aGljaAp8IGNvbnRhaW5zIHRoZSAid2ViIiBtaWRkbGV3YXJlIGdyb3VwCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CgpSb3V0ZTo6Z2V0KCcvJywgZnVuY3Rpb24gKCkgewogICAgdGVzdCgnYWxhYURyYWduZWVsJywgMjApOwp9KTs=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ClJvdXRlOjpnZXQoJy8nLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gdmlldygnd2VsY29tZScpOwp9KTs=</text>
+      </register>
+      <register name="-" type="4">
+        <text>{</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
