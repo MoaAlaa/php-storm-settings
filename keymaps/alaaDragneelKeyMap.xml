@@ -33,6 +33,9 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="Macro.save with format">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="MethodOverloadSwitchUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -42,13 +45,10 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="SaveAll" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -70,6 +70,9 @@
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.GoToRef">
     <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="escape" />

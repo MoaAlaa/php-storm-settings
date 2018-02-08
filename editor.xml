@@ -5,6 +5,7 @@
         <entry key="Blade" value="true" />
       </map>
     </option>
+    <option name="IS_CARET_INSIDE_TABS" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="SqlEditorOptions">
