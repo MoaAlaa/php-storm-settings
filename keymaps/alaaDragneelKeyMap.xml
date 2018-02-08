@@ -42,6 +42,10 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
