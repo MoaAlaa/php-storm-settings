@@ -36,9 +36,6 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
-  <action id="Macro.save with format">
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="MethodOverloadSwitchUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -51,7 +48,6 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
-  <action id="SaveAll" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
