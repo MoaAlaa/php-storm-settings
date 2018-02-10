@@ -36,6 +36,7 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
