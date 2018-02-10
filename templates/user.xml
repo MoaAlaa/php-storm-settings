@@ -64,8 +64,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="met" value="public function $METHODE$()&#10;{&#10;    $END$&#10;}&#10;" description="Public Method" toReformat="true" toShortenFQNames="true">
+  <template name="met" value="public function $METHODE$($PARAMS$)&#10;{&#10;    $END$&#10;}&#10;" description="Public Method" toReformat="true" toShortenFQNames="true">
     <variable name="METHODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
