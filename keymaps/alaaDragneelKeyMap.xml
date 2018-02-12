@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.History.Browse" />
   <action id="Console.TableResult.FindInGrid">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
@@ -18,6 +19,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="EditorUnSelectWord" />
+  <action id="EmmetPreview">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
@@ -48,6 +52,7 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="PerforceDirect.Edit" />
   <action id="PreviousOccurence" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt t" />
@@ -74,7 +79,7 @@
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="SurroundWithEmmet">
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.GoToRef">
