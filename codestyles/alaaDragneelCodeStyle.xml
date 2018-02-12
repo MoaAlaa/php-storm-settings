@@ -15,6 +15,10 @@
     <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="HTML">
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
@@ -32,5 +36,10 @@
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
   </codeStyleSettings>
 </code_scheme>
