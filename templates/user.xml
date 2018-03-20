@@ -76,7 +76,8 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="vuetemplate" value="&lt;template&gt;&#10;    &#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;    &#10;&lt;/script&gt;" description="Basic VueJs Template" toReformat="false" toShortenFQNames="true">
+  <template name="vue-template" value="&lt;template&gt;&#10;    &lt;div&gt;$NAME$ Work.&lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;    export default {&#10;        data () {&#10;            return {  };&#10;        },&#10;        methods: {  }&#10;    }&#10;&lt;/script&gt;" description="Basic VueJs Template" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
