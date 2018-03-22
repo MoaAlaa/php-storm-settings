@@ -82,4 +82,18 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="promet" value="protected function $METHODE$($PARAMS$)&#10;{&#10;    $END$&#10;}&#10;" description="Protected Method" toReformat="true" toShortenFQNames="true">
+    <variable name="METHODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="primet" value="private function $METHODE$($PARAMS$)&#10;{&#10;    $END$&#10;}&#10;" description="Private Method" toReformat="true" toShortenFQNames="true">
+    <variable name="METHODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
