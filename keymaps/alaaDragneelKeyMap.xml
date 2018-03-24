@@ -33,6 +33,7 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
@@ -56,6 +57,7 @@
   <action id="PreviousOccurence" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
