@@ -34,7 +34,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="testClass" value="&lt;?php&#10;&#10;namespace Tests\Feature;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\DatabaseMigrations;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use DatabaseMigrations;&#10;&#10;    /** @test */&#10;    public function it_$METHOD$()&#10;    {&#10;        $END$&#10;    }&#10;&#10;}&#10;" description="Test Class" toReformat="true" toShortenFQNames="true">
+  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\Feature;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\DatabaseMigrations;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use DatabaseMigrations;&#10;&#10;    /** @test */&#10;    public function it_$METHOD$()&#10;    {&#10;        $END$&#10;    }&#10;&#10;}&#10;" description="Test Class" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
