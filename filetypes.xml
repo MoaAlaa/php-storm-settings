@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="TestCLass" type="PHP" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
+      <mapping pattern="AvatarForm" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
