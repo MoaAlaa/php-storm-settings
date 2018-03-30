@@ -96,4 +96,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="metfield" value="{{ method_field($END$) }}" description="Method Field" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
