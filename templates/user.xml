@@ -34,7 +34,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\Feature;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\DatabaseMigrations;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use DatabaseMigrations;&#10;&#10;    /** @test */&#10;    public function it_$METHOD$()&#10;    {&#10;        $END$&#10;    }&#10;&#10;}&#10;" description="Test Class" toReformat="true" toShortenFQNames="true">
+  <template name="test-class-with-db-migrations" value="&lt;?php&#10;&#10;namespace Tests\Feature;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\DatabaseMigrations;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use DatabaseMigrations;&#10;&#10;    /** @test */&#10;    public function it_$METHOD$()&#10;    {&#10;        $END$&#10;    }&#10;&#10;}&#10;" description="Test Class With DBMigration Trait For laravel &lt; 5.5" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
     <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -97,6 +97,13 @@
     </context>
   </template>
   <template name="metfield" value="{{ method_field($END$) }}" description="Method Field" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="testclass" value="&lt;?php&#10;&#10;namespace Tests\Feature;&#10;&#10;use Tests\TestCase;&#10;use Illuminate\Foundation\Testing\RefreshDatabase;&#10;&#10;class $NAME$ extends TestCase&#10;{&#10;    use RefreshDatabase;&#10;&#10;    /** @test */&#10;    public function it_$METHOD$()&#10;    {&#10;        $END$&#10;    }&#10;&#10;}&#10;" description="Test Class With RefreshDatabase Trait" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
