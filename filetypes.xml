@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="js" type="JSX Harmony" />
+      <removed_mapping ext="js" approved="true" type="JavaScript" />
       <mapping pattern="TestCLass" type="PHP" />
       <mapping pattern="tasks" type="PLAIN_TEXT" />
       <mapping pattern="ss" type="PLAIN_TEXT" />
-      <mapping pattern="AvatarForm" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
