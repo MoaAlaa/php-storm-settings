@@ -1,11 +1,8 @@
-<?php
-
-#if (${NAMESPACE})
-
+<?php #if (${NAMESPACE})
 namespace ${NAMESPACE};
-
 #end
 
 interface ${NAME} {
+
 
 }

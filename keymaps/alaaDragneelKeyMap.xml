@@ -1,13 +1,8 @@
 <keymap version="1" name="alaaDragneelKeyMap" parent="$default">
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
-    <keyboard-shortcut first-keystroke="ctrl back_slash" />
-  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="Console.History.Browse" />
   <action id="Console.TableResult.FindInGrid">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
@@ -23,10 +18,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="EditorUnSelectWord" />
-  <action id="EmmetPreview">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
-  <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -37,16 +28,8 @@
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt n" />
-    <keyboard-shortcut first-keystroke="alt g" />
   </action>
-  <action id="GotoClass">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="control button1" />
-    <mouse-shortcut keystroke="button2" />
-    <keyboard-shortcut first-keystroke="alt b" />
-  </action>
+  <action id="GotoClass" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
@@ -54,14 +37,10 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
-  <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="ctrl b" />
-  </action>
-  <action id="PerforceDirect.Edit" />
+  <action id="ParameterInfo" />
   <action id="PreviousOccurence" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt t" />
-    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -84,16 +63,9 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
-  <action id="SurroundWithEmmet">
-    <keyboard-shortcut first-keystroke="ctrl alt e" />
-    <keyboard-shortcut first-keystroke="alt w" />
-  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.GoToRef">
     <keyboard-shortcut first-keystroke="alt f3" />
-  </action>
-  <action id="Vcs.ReformatCommitMessage">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="escape" />
