@@ -22,6 +22,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="EditorUnSelectWord" />
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -38,6 +42,14 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Jdbc.RunSqlScript">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+  </action>
   <action id="MethodOverloadSwitchUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -50,6 +62,14 @@
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -73,6 +93,7 @@
   <action id="Vcs.Log.GoToRef">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="escape" />
   </action>
