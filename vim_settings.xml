@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/xampp/htdocs/myWork/driveschool/.gitignore" timestamp="1518025373285">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/PhpStorm/tests/Feature/ExampleTest.php" timestamp="1518026942643">
         <mark key="[" line="15" column="4" />
       </file>
@@ -20,46 +14,42 @@
       <file name="C:/xampp/htdocs/myWork/angular/Auth/src/app/services/admin-auth-guard.service.ts" timestamp="1518103223457">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="C:/xampp/htdocs/myWork/driveschool/resources/views/backend/students/add.blade.php" timestamp="1518035103067">
-        <mark key="[" line="378" column="35" />
-        <mark key="]" line="378" column="34" />
-        <mark key="." line="378" column="34" />
-        <mark key="^" line="378" column="34" />
-      </file>
       <file name="/PHP Console" timestamp="1518026209952">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/xampp/htdocs/myWork/angular/Auth/src/app/home/home.component.html" timestamp="1518100602558">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="42" />
-        <mark key="^" line="2" column="42" />
-        <mark key="." line="2" column="42" />
-      </file>
-      <file name="$USER_HOME$/codes/team-site/app/Responses/Post/PostShowResponse.php" timestamp="1530445850206">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="13" column="85" />
-        <mark key="." line="15" column="3" />
       </file>
       <file name="$USER_HOME$/codes/team-site/app/Http/Controllers/PostController.php" timestamp="1530447153832">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/team-site/app/Http/Controllers/CommentController.php" timestamp="1530708372852" />
       <file name="C:/xampp/htdocs/myWork/driveschool/resources/lang/ar/zayed_alaa.php" timestamp="1518035069599">
         <mark key="[" line="561" column="0" />
       </file>
       <file name="C:/xampp/htdocs/myWork/angular/Auth/src/app/helpers/fake-backend.ts" timestamp="1518100592199">
         <mark key="[" line="6" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518101997084">
+      <file name="/Dummy.txt" timestamp="1530707352384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/team-site/package.json" timestamp="1530706003287" />
+      <file name="$USER_HOME$/codes/team-site/package.json" timestamp="1530706916809">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/codes/team-site/app/Tag.php" timestamp="1530708059836" />
+      <file name="$USER_HOME$/codes/team-site/app/User.php" timestamp="1530708125762">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="55" column="5" />
+        <mark key="." line="24" column="5" />
+      </file>
       <file name="$USER_HOME$/Desktop/PhpStorm/routes/web.php" timestamp="1518027152060">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/team-site/.gitignore" timestamp="1530707815172">
+        <mark key="[" line="11" column="14" />
       </file>
       <file name="C:/xampp/htdocs/myWork/forum/app/Http/Controllers/ThreadsController.php" timestamp="1518026579878">
         <mark key="[" line="21" column="0" />
@@ -79,20 +69,8 @@
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="C:/xampp/htdocs/myWork/forum/tests/Feature/CreateThreadTest.php" timestamp="1518028258169">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="27" column="21" />
-        <mark key="^" line="27" column="21" />
-        <mark key="." line="27" column="21" />
-      </file>
       <file name="C:/xampp/htdocs/myWork/angular/Auth/tslint.json" timestamp="1518101528502">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/xampp/htdocs/myWork/angular/Auth/src/app/services/auth-guard.service.ts" timestamp="1518102495991">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
       </file>
     </filemarks>
     <jumps />
@@ -100,38 +78,38 @@
       <register name="0" type="4">
         <text encoding="base64">di1pZj0iYXV0aG9yaXplZCIg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dGl0bGUpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZvbGxvd2VycygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG9NYW55KFVzZXI6OmNsYXNzLCAnZm9sbG93cycsICdmb2xsb3dlcicsICdmb2xsb3dlZCcpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBmb2xsb3coJGZvbGxvd2VkX2lkKQogICAgewogICAgICAgIGlmICgkdGhpcy0+aXNGb2xsb3coJGZvbGxvd2VkX2lkKSkgcmV0dXJuOwoKICAgICAgICAkdGhpcy0+Zm9sbG93ZXJzKCktPmF0dGFjaCgkZm9sbG93ZWRfaWQpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHVuRm9sbG93KCRmb2xsb3dlZF9pZCkKICAgIHsKICAgICAgICBpZiAoISAkdGhpcy0+aXNGb2xsb3coJGZvbGxvd2VkX2lkKSkgcmV0dXJuOwoKICAgICAgICAkdGhpcy0+Zm9sbG93ZXJzKCktPmRldGFjaCgkZm9sbG93ZWRfaWQpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGlzRm9sbG93KCRmb2xsb3dlZF9pZCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmZvbGxvd2VycygpCiAgICAgICAgICAgIC0+d2hlcmUoJ2ZvbGxvd2VyJywgYXV0aCgpLT5pZCgpKQogICAgICAgICAgICAtPndoZXJlKCdmb2xsb3dlZCcsICRmb2xsb3dlZF9pZCkKICAgICAgICAgICAgLT5leGlzdHMoKTsKICAgIH0=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">di1pZj0iYXV0aG9yaXplZCIg</text>
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZvbGxvd2VycygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5iZWxvbmdzVG9NYW55KFVzZXI6OmNsYXNzLCAnZm9sbG93cycsICdmb2xsb3dlcicsICdmb2xsb3dlZCcpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBmb2xsb3coJGZvbGxvd2VkX2lkKQogICAgewogICAgICAgIGlmICgkdGhpcy0+aXNGb2xsb3coJGZvbGxvd2VkX2lkKSkgcmV0dXJuOwoKICAgICAgICAkdGhpcy0+Zm9sbG93ZXJzKCktPmF0dGFjaCgkZm9sbG93ZWRfaWQpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIHVuRm9sbG93KCRmb2xsb3dlZF9pZCkKICAgIHsKICAgICAgICBpZiAoISAkdGhpcy0+aXNGb2xsb3coJGZvbGxvd2VkX2lkKSkgcmV0dXJuOwoKICAgICAgICAkdGhpcy0+Zm9sbG93ZXJzKCktPmRldGFjaCgkZm9sbG93ZWRfaWQpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGlzRm9sbG93KCRmb2xsb3dlZF9pZCkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPmZvbGxvd2VycygpCiAgICAgICAgICAgIC0+d2hlcmUoJ2ZvbGxvd2VyJywgYXV0aCgpLT5pZCgpKQogICAgICAgICAgICAtPndoZXJlKCdmb2xsb3dlZCcsICRmb2xsb3dlZF9pZCkKICAgICAgICAgICAgLT5leGlzdHMoKTsKICAgIH0=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcmVxdWVzdC0+dGl0bGUpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZCgncHNzZXMnLCAkcmVxdWVzdC0+dmFsaWRhdGVkKCkpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">OwogICAgICAgICAgICAgICAg</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgZGQoJHRoaXMtPnBvc3QpOwogICAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgKiAgCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHRoaXMuaHR0cC5nZXQoJy9hcGkvb3JkZXJzJykKICAgICAgICAgICAgLm1hcChyZXNwb25zZSA9PiByZXNwb25zZS5qc29uKCkpOw==</text>
-      </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>npm run development</text>
       </register>
     </registers>
     <search>
