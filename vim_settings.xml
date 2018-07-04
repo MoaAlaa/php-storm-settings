@@ -12,10 +12,12 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
+      <file name="/Navbar.vue" timestamp="1530709873031" />
       <file name="$USER_HOME$/codes/team-site/app/Responses/Comment/CommentStoreResponse.php" timestamp="1530709107274" />
       <file name="$USER_HOME$/codes/team-site/app/Responses/Post/PostUpdateResponse.php" timestamp="1530709334500" />
       <file name="$USER_HOME$/codes/team-site/app/Http/Controllers/CommentController.php" timestamp="1530708505212" />
       <file name="$USER_HOME$/codes/team-site/app/Tag.php" timestamp="1530708059836" />
+      <file name="/Login.vue" timestamp="1530709555805" />
       <file name="/PostShowResponse.php" timestamp="1530709269251" />
     </filemarks>
     <jumps />
