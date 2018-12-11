@@ -29,4 +29,11 @@
       <option name="PHP Class Member" value="true" />
     </context>
   </template>
+  <template name="vue-template" value="&lt;template&gt;&#10;    &lt;div&gt;$FILENAME$&lt;/div&gt; &#10;&lt;/template&gt;&#10;&#10;&lt;script&gt;&#10;    export default {&#10;        name: &quot;$FILENAMEWITHDASHES$&quot;&#10;    }&#10;&lt;/script&gt;" description="Vue Basic Template" toReformat="false" toShortenFQNames="true">
+    <variable name="FILENAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FILENAMEWITHDASHES" expression="camelCase(fileNameWithoutExtension())" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
