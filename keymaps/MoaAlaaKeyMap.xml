@@ -1,0 +1,30 @@
+<keymap version="1" name="MoaAlaaKeyMap" parent="Mac OS X 10.5+">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="Console.TableResult.Reload" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="shift meta alt r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="hg4idea.QRefresh" />
+</keymap>
